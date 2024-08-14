@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Samantha William",
+    "id": "123456789",
+    "class": "VI A",
+    "amount_due": "40,036"
+  },
+  {
+    "name": "Tony Soap",
+    "id": "123456790",
+    "class": "VII B",
+    "amount_due": "45,036"
+  },
+  {
+    "name": "Jordan Nico",
+    "id": "123456791",
+    "class": "VIII A",
+    "amount_due": "50,036"
+  },
+  {
+    "name": "Karen Hope",
+    "id": "123456792",
+    "class": "IX A",
+    "amount_due": "55,036"
+  },
+  {
+    "name": "Nadila Adja",
+    "id": "123456793",
+    "class": "X A",
+    "amount_due": "60,036"
+  },
+  {
+    "name": "David Smith",
+    "id": "123456794",
+    "class": "VI B",
+    "amount_due": "42,000"
+  },
+  {
+    "name": "Emily Johnson",
+    "id": "123456795",
+    "class": "VII C",
+    "amount_due": "48,200"
+  },
+  {
+    "name": "Michael Brown",
+    "id": "123456796",
+    "class": "VIII B",
+    "amount_due": "52,500"
+  },
+  {
+    "name": "Jessica Davis",
+    "id": "123456797",
+    "class": "IX C",
+    "amount_due": "57,000"
+  },
+  {
+    "name": "Daniel Miller",
+    "id": "123456798",
+    "class": "X B",
+    "amount_due": "62,000"
+  },
+  {
+    "name": "Sarah Wilson",
+    "id": "123456799",
+    "class": "VI C",
+    "amount_due": "43,700"
+  },
+  {
+    "name": "Chris Moore",
+    "id": "123456800",
+    "class": "VII A",
+    "amount_due": "50,100"
+  },
+  {
+    "name": "Sophia Taylor",
+    "id": "123456801",
+    "class": "VIII C",
+    "amount_due": "53,500"
+  },
+  {
+    "name": "James Anderson",
+    "id": "123456802",
+    "class": "IX B",
+    "amount_due": "58,300"
+  },
+  {
+    "name": "Victoria Thomas",
+    "id": "123456803",
+    "class": "X C",
+    "amount_due": "63,036"
+  },
+  {
+    "name": "Benjamin Jackson",
+    "id": "123456804",
+    "class": "VI A",
+    "amount_due": "44,200"
+  },
+  {
+    "name": "Ava White",
+    "id": "123456805",
+    "class": "VII B",
+    "amount_due": "46,036"
+  },
+  {
+    "name": "Olivia Harris",
+    "id": "123456806",
+    "class": "VIII A",
+    "amount_due": "52,600"
+  },
+  {
+    "name": "Liam Clark",
+    "id": "123456807",
+    "class": "IX C",
+    "amount_due": "57,036"
+  },
+  {
+    "name": "Mason Lewis",
+    "id": "123456808",
+    "class": "X A",
+    "amount_due": "64,036"
+  },
+  {
+    "name": "Isabella Lee",
+    "id": "123456809",
+    "class": "VI B",
+    "amount_due": "45,800"
+  },
+  {
+    "name": "Lucas Walker",
+    "id": "123456810",
+    "class": "VII C",
+    "amount_due": "49,036"
+  },
+  {
+    "name": "Amelia Hall",
+    "id": "123456811",
+    "class": "VIII B",
+    "amount_due": "53,900"
+  },
+  {
+    "name": "Mia Young",
+    "id": "123456812",
+    "class": "IX A",
+    "amount_due": "58,036"
+  },
+  {
+    "name": "Elijah King",
+    "id": "123456813",
+    "class": "X B",
+    "amount_due": "64,000"
+  }
+]

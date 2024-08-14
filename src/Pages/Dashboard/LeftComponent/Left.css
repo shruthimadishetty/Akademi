@@ -1,0 +1,40 @@
+.leftComponent {
+  background-color: #ffffff;
+  padding: 10px 20px;
+}
+.menu-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.user-info{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.user-info img{
+  width: 25%;
+}
+.username{
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: left;
+  color: #303972;
+}
+.user-info .icon{
+  color: #4d44b5;
+}
+.button_logout{
+  background-color: #4d44b5;
+  border-radius: 40px;
+  color: #ffffff;
+  text-align: center;
+  border: none;
+  height: 40px;
+  width: 200px;
+  font-size: 18px;
+  font-weight: 700;
+  cursor: pointer;
+}

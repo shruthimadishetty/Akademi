@@ -1,0 +1,12 @@
+.dashboard-container{
+    display: flex;
+    /* gap: 20px; */
+}
+.main-containers{
+ /* border:10px solid rgb(0, 255, 21); */
+ width: 100%;
+}
+.left-container{
+ /* border:10px solid rgb(30, 0, 255); */
+ width: 30%;
+}
