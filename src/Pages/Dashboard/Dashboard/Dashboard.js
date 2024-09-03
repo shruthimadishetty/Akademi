@@ -1,7 +1,7 @@
 import React from 'react'
-import Main from './MainComponent/Main'
-import Left from './LeftComponent/Left'
+import Left from '../LeftComponent/Left'
 import './Dashboard.css'
+import Main from '../MainComponent/Main'
 
 const Dashboard = () => {
   return (

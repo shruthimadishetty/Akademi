@@ -148,5 +148,23 @@
     "id": "123456813",
     "class": "X B",
     "amount_due": "64,000"
+  },
+  {
+    "name": "Grace Allen",
+    "id": "123456814",
+    "class": "VI C",
+    "amount_due": "41,500"
+  },
+  {
+    "name": "Ethan Scott",
+    "id": "123456815",
+    "class": "VII A",
+    "amount_due": "47,700"
+  },
+  {
+    "name": "Henry Adams",
+    "id": "123456816",
+    "class": "VIII C",
+    "amount_due": "54,200"
   }
 ]

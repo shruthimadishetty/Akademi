@@ -1,0 +1,39 @@
+.student-heading {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 54px;
+  text-align: left;
+  color: #303972;
+}
+.student-table-info {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 20px 20px;
+  gap: 20px;
+}
+.student-name {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 21px;
+  text-align: left;
+  color: #303972;
+}
+.student_logout{
+  background-color: #4d44b5;
+  border-radius: 10px;
+  color: #ffffff;
+  text-align: center;
+  border: none;
+  height: 30px;
+  width: 100px;
+  font-size: 18px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.student-icon{
+    color: #4d44b5;
+    font-size: 25px;
+}

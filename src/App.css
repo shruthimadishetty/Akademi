@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 .main-container{
-  width: 100%;
+   width: 100%;
   /* border: 5px solid red; */
   display: flex;
 }
@@ -17,4 +17,13 @@
   width: 80%;
   /* border: 10px solid yellow; */
 }
+.centered-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height to center vertically */
+  width: 100%; /* Full width to override content width */
+  flex-grow: 1; /* Ensure it expands to fill available space */
+}
+
 
